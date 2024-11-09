@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 [![Julio leite statis](https://github-readme-stats.vercel.app/api?username=Julioleite26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julioleite26)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
